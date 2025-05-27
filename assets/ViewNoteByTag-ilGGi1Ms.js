@@ -1,0 +1,1 @@
+import{O as o}from"./Operation-DYeQW-W1.js";import{N as t}from"./NoteList-DaQ_1h9C.js";import{d as a,c as r,a as e,F as n,o as s}from"./index-rmflz4aR.js";const l=a({__name:"ViewNoteByTag",setup(m){return(c,p)=>(s(),r(n,null,[e(o),e(t)],64))}});export{l as default};
